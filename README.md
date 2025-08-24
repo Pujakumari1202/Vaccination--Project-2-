@@ -10,14 +10,14 @@ The goal is to provide actionable insights into vaccination performance and publ
 - Power BI (Dashboards & DAX)  
 
 ## 📂 Project Structure
-vaccination-project/
-├── data_raw/ # Raw data
-├── data_clean/ # Cleaned data
-├── etl/ # Python ETL scripts
-├── sql/ # SQL schema & queries
-├── powerbi/ # Power BI reports
-├── notebooks/ # Jupyter notebooks
-└── docs/ # Documentation
+vaccination-project/  
+├── data_raw/ # Raw data  
+├── data_clean/ # Cleaned data  
+├── etl/ # Python ETL scripts  
+├── sql/ # SQL schema & queries  
+├── powerbi/ # Power BI reports   
+├── notebooks/ # Jupyter notebooks   
+└── docs/ # Documentation   
 
 
 
