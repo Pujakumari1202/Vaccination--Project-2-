@@ -4,6 +4,23 @@
 This project analyzes vaccination coverage, disease incidence, and vaccine effectiveness using **Python, SQL, and Power BI**.  
 The goal is to provide actionable insights into vaccination performance and public health trends.
 
+## Steps to run the project
+## create a new virtual environment
+```bash
+python -m vaccination python
+```
+## install requirements
+```bash
+python -m pip install -r requirements.txt
+```
+
+## run the .py file to neon
+```bash
+python upload_to_neon.py
+
+```
+
+
 ## 🛠️ Tech Stack
 - Python (Pandas, Matplotlib, SQLAlchemy)  
 - SQL (PostgreSQL / MySQL)  
