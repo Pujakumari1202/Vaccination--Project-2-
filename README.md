@@ -105,7 +105,7 @@ python -m pip install -r requirements.txt
 3) Run Jupyter Notebook for cleaning
 ````bash
 jupyter notebook
-```
+````
 
 4) Run Python script to upload to NeonDB
 ```bash
