@@ -1,5 +1,5 @@
 # 🩺 Vaccination Data Analysis
-Hello
+
 ## 📌 Overview
 This project analyzes vaccination coverage, disease incidence, and vaccine effectiveness using **Python, SQL, and Power BI**.  
 The goal is to provide actionable insights into vaccination performance and public health trends.
